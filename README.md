@@ -11,7 +11,7 @@ Solicita subir 2 branches distintos, uno llamado *problema*, con el código del 
 
 * El código tiene que subirse al repositorio asignado al grupo siguiendo los standares que utilizamos en el resto de los proyectos: maven, gitignore, etc
 
-* En conjunto con el código, tienen que preparar una documentación adicional en la wiki del proyecto utilizando Markdown.
+* En conjunto con el código, tienen que preparar una documentación adicional en la wiki del proyecto utilizando Markdown que complemente el código para que alguien que quiere aprender ese patrón pueda hacerlo con esas 2 cosas.
 
 * Optional pueden agregar cualquier material que les sea útil para la presentación: ppt, video, etc.
 
